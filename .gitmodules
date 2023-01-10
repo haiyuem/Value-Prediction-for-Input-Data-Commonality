@@ -1,0 +1,3 @@
+[submodule "CVP"]
+	path = CVP
+	url = https://github.com/haiyuem/CVP
