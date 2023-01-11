@@ -1,0 +1,6 @@
+This is a simple sketch that initializes an array and read the elements one by one. This should be an ideal case for value prediction (all unseen data, same values)
+sketch - 2D array, one column as one frame, all values are the same
+sketch_diffval - repetitive rows in 2D array but the column values are different (recurring similarity of data)
+sketch_unroll - same as sketch but each column's load are all unrolled (no nested loops)
+
+They differ in number of insns but the execution time is about the same.
