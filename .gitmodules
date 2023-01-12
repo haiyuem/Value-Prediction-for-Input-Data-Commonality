@@ -4,3 +4,9 @@
 [submodule "mjpegtools"]
 	path = mjpegtools
 	url = https://github.com/haiyuem/mjpegtools
+[submodule "lane_detection"]
+	path = lane_detection
+	url = https://github.com/haiyuem/lane_detection
+[submodule "pintool"]
+	path = pintool
+	url = https://github.com/haiyuem/pintool
